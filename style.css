@@ -326,7 +326,7 @@ nav ul li a:hover::after{
 .contact-right form{
     width: 45%;
     position: absolute;
-    top: 2900px;
+    top: 2750px;
     left: 650px;
 }
 form input, form textarea{
